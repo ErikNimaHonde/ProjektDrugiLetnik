@@ -1,5 +1,5 @@
 # ProjektDrugiLetnik
-Ta projekt je preprost generator gesel, napisan v Javi.
+Ta projekt(zanesljivogeslo.java) je preprost generator gesel, napisan v Javi.
 Uporabnik vnese dolžino gesla, program pa nato generira naključno geslo iz:
 
 -velikih črk
